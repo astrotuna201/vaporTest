@@ -1,6 +1,7 @@
 # vaporTest
 
-A sample Vapor 4 (4.0.0-beta.3.21) /Fluent-Kit (1.0.0-beta.4) project (using a postgresql database) to test the timing of many-to-many Sibling requests ("eagerLoad")
+A sample Vapor 4 (4.0.0-beta.3.21) /Fluent-Kit (1.0.0-beta.4) project (using a postgresql database) to test the timing of many-to-many Sibling requests ("eagerLoad". 
+Update: The underlying issue was fixed by https://github.com/vapor/fluent-kit/pull/164
 
 ## Background
 
